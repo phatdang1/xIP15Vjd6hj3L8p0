@@ -57,3 +57,4 @@ Predicted tomorrow price: 163.90411
 
 Apple current price: 152.43
 Predicted tomorrow price: 130.88394
+
